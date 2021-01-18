@@ -1,0 +1,9 @@
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise1\SIT_17621661_Exercise1\bin\Debug\SIT_17621661_Exercise1.exe.config
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise1\SIT_17621661_Exercise1\bin\Debug\SIT_17621661_Exercise1.exe
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise1\SIT_17621661_Exercise1\bin\Debug\SIT_17621661_Exercise1.pdb
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise1\SIT_17621661_Exercise1\obj\Debug\SIT_17621661_Exercise1.csprojAssemblyReference.cache
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise1\SIT_17621661_Exercise1\obj\Debug\SIT_17621661_Exercise1.Properties.Resources.resources
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise1\SIT_17621661_Exercise1\obj\Debug\SIT_17621661_Exercise1.csproj.GenerateResource.cache
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise1\SIT_17621661_Exercise1\obj\Debug\SIT_17621661_Exercise1.exe
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise1\SIT_17621661_Exercise1\obj\Debug\SIT_17621661_Exercise1.pdb
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise1\SIT_17621661_Exercise1\obj\Debug\SIT_17621661_Exercise1.Form1.resources

@@ -1,0 +1,10 @@
+E:\Programming\Uni\C#\3.2\3.2\bin\Debug\3.2.exe.config
+E:\Programming\Uni\C#\3.2\3.2\bin\Debug\3.2.exe
+E:\Programming\Uni\C#\3.2\3.2\bin\Debug\3.2.pdb
+E:\Programming\Uni\C#\3.2\3.2\obj\Debug\3.2.csprojAssemblyReference.cache
+E:\Programming\Uni\C#\3.2\3.2\obj\Debug\_3._2.Form1.resources
+E:\Programming\Uni\C#\3.2\3.2\obj\Debug\_3._2.Properties.Resources.resources
+E:\Programming\Uni\C#\3.2\3.2\obj\Debug\3.2.csproj.GenerateResource.cache
+E:\Programming\Uni\C#\3.2\3.2\obj\Debug\3.2.exe
+E:\Programming\Uni\C#\3.2\3.2\obj\Debug\3.2.pdb
+E:\Programming\Uni\C#\3.2\3.2\obj\Debug\3.2.csproj.CoreCompileInputs.cache

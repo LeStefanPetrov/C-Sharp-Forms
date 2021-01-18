@@ -1,0 +1,1 @@
+The word software was first used in the late 1960s to show the difference from computer hardware, which are the parts of a machine that can be seen and touched. Software is the instructions that the computer follows. Before compact discs (CDs) or Internet downloads, software came on various computer data storage media like paper punch cards, magnetic discs or magnetic tape

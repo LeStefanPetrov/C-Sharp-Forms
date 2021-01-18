@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>
+A Simple HTML Document
+</title>
+</head>
+<body>
+<p>This is a very simple HTML document</p>
+<p>It only has two paragraphs</p>
+</body>
+</html>
+
+
+<html>
+<head>
+<title>
+A Simple HTML Document
+</title>
+</head>
+<body>
+<p>This is a very simple <a href="https://www.w3schools.com">HTML</a> document</p>
+<p><a target="_blank">It only has two paragraphs</a></p>
+</body>
+</html>

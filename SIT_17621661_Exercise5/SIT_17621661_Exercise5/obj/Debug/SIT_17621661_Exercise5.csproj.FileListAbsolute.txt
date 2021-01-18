@@ -1,0 +1,10 @@
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise5\SIT_17621661_Exercise5\bin\Debug\SIT_17621661_Exercise5.exe.config
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise5\SIT_17621661_Exercise5\bin\Debug\SIT_17621661_Exercise5.exe
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise5\SIT_17621661_Exercise5\bin\Debug\SIT_17621661_Exercise5.pdb
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise5\SIT_17621661_Exercise5\obj\Debug\SIT_17621661_Exercise5.csprojAssemblyReference.cache
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise5\SIT_17621661_Exercise5\obj\Debug\SIT_17621661_Exercise5.Form1.resources
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise5\SIT_17621661_Exercise5\obj\Debug\SIT_17621661_Exercise5.Properties.Resources.resources
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise5\SIT_17621661_Exercise5\obj\Debug\SIT_17621661_Exercise5.csproj.GenerateResource.cache
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise5\SIT_17621661_Exercise5\obj\Debug\SIT_17621661_Exercise5.csproj.CoreCompileInputs.cache
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise5\SIT_17621661_Exercise5\obj\Debug\SIT_17621661_Exercise5.exe
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise5\SIT_17621661_Exercise5\obj\Debug\SIT_17621661_Exercise5.pdb

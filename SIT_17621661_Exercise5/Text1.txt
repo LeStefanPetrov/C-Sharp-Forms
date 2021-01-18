@@ -1,0 +1,1 @@
+"C" omputers are "good" with numbers and mathematic functions. At times you might want the computer to perform some kind of calculation, for example 2 - 4 or 2 + 666 * 4. 2 + 4 is 6, but what about 2 + 6 * 4? well there are two answers to this: either 26 or 32..

@@ -1,0 +1,28 @@
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\C#\morski shah\morski shah\bin\Debug\morski shah.exe.config
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\C#\morski shah\morski shah\obj\Debug\morski shah.csprojResolveAssemblyReference.cache
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\C#\morski shah\morski shah\obj\Debug\morski_shah.Form1.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\C#\morski shah\morski shah\obj\Debug\morski_shah.Properties.Resources.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\C#\morski shah\morski shah\obj\Debug\morski shah.csproj.GenerateResource.Cache
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\C#\morski shah\morski shah\bin\Debug\morski shah.exe
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\C#\morski shah\morski shah\bin\Debug\morski shah.pdb
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\C#\morski shah\morski shah\obj\Debug\morski shah.exe
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\C#\morski shah\morski shah\obj\Debug\morski shah.pdb
+C:\Users\47\Desktop\morski shah\morski shah\morski shah\bin\Debug\morski shah.exe.config
+C:\Users\47\Desktop\morski shah\morski shah\morski shah\bin\Debug\morski shah.exe
+C:\Users\47\Desktop\morski shah\morski shah\morski shah\bin\Debug\morski shah.pdb
+C:\Users\47\Desktop\morski shah\morski shah\morski shah\obj\Debug\morski shah.csprojAssemblyReference.cache
+C:\Users\47\Desktop\morski shah\morski shah\morski shah\obj\Debug\morski_shah.Form1.resources
+C:\Users\47\Desktop\morski shah\morski shah\morski shah\obj\Debug\morski_shah.Properties.Resources.resources
+C:\Users\47\Desktop\morski shah\morski shah\morski shah\obj\Debug\morski shah.csproj.GenerateResource.cache
+C:\Users\47\Desktop\morski shah\morski shah\morski shah\obj\Debug\morski shah.exe
+C:\Users\47\Desktop\morski shah\morski shah\morski shah\obj\Debug\morski shah.pdb
+E:\Programming\Uni\C#\morski shah\morski shah\morski shah\bin\Debug\morski shah.exe.config
+E:\Programming\Uni\C#\morski shah\morski shah\morski shah\bin\Debug\morski shah.exe
+E:\Programming\Uni\C#\morski shah\morski shah\morski shah\bin\Debug\morski shah.pdb
+E:\Programming\Uni\C#\morski shah\morski shah\morski shah\obj\Debug\morski shah.csprojAssemblyReference.cache
+E:\Programming\Uni\C#\morski shah\morski shah\morski shah\obj\Debug\morski_shah.Form1.resources
+E:\Programming\Uni\C#\morski shah\morski shah\morski shah\obj\Debug\morski_shah.Properties.Resources.resources
+E:\Programming\Uni\C#\morski shah\morski shah\morski shah\obj\Debug\morski shah.csproj.GenerateResource.cache
+E:\Programming\Uni\C#\morski shah\morski shah\morski shah\obj\Debug\morski shah.csproj.CoreCompileInputs.cache
+E:\Programming\Uni\C#\morski shah\morski shah\morski shah\obj\Debug\morski shah.exe
+E:\Programming\Uni\C#\morski shah\morski shah\morski shah\obj\Debug\morski shah.pdb

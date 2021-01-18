@@ -1,0 +1,29 @@
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise9\SIT_17621661_Exercise9\bin\Debug\SIT_17621661_Exercise9.exe.config
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise9\SIT_17621661_Exercise9\bin\Debug\SIT_17621661_Exercise9.exe
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise9\SIT_17621661_Exercise9\bin\Debug\SIT_17621661_Exercise9.pdb
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise9\SIT_17621661_Exercise9\obj\Debug\SIT_17621661_Exercise9.csprojAssemblyReference.cache
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise9\SIT_17621661_Exercise9\obj\Debug\SIT_17621661_Exercise9.Form1.resources
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise9\SIT_17621661_Exercise9\obj\Debug\SIT_17621661_Exercise9.Properties.Resources.resources
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise9\SIT_17621661_Exercise9\obj\Debug\SIT_17621661_Exercise9.csproj.GenerateResource.cache
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise9\SIT_17621661_Exercise9\obj\Debug\SIT_17621661_Exercise9.csproj.CoreCompileInputs.cache
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise9\SIT_17621661_Exercise9\obj\Debug\SIT_17621661_Exercise9.exe
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise9\SIT_17621661_Exercise9\obj\Debug\SIT_17621661_Exercise9.pdb
+C:\Users\Lockwar\Desktop\TU VARNA 4 KURS\SEDMI SEMESTAR\ИИИ\Client\SIT_17621661_Exercise9\SIT_17621661_Exercise9\bin\Debug\SIT_17621661_Exercise9.exe.config
+C:\Users\Lockwar\Desktop\TU VARNA 4 KURS\SEDMI SEMESTAR\ИИИ\Client\SIT_17621661_Exercise9\SIT_17621661_Exercise9\bin\Debug\SIT_17621661_Exercise9.exe
+C:\Users\Lockwar\Desktop\TU VARNA 4 KURS\SEDMI SEMESTAR\ИИИ\Client\SIT_17621661_Exercise9\SIT_17621661_Exercise9\bin\Debug\SIT_17621661_Exercise9.pdb
+C:\Users\Lockwar\Desktop\TU VARNA 4 KURS\SEDMI SEMESTAR\ИИИ\Client\SIT_17621661_Exercise9\SIT_17621661_Exercise9\obj\Debug\SIT_17621661_Exercise9.csprojAssemblyReference.cache
+C:\Users\Lockwar\Desktop\TU VARNA 4 KURS\SEDMI SEMESTAR\ИИИ\Client\SIT_17621661_Exercise9\SIT_17621661_Exercise9\obj\Debug\SIT_17621661_Exercise9.Form1.resources
+C:\Users\Lockwar\Desktop\TU VARNA 4 KURS\SEDMI SEMESTAR\ИИИ\Client\SIT_17621661_Exercise9\SIT_17621661_Exercise9\obj\Debug\SIT_17621661_Exercise9.Properties.Resources.resources
+C:\Users\Lockwar\Desktop\TU VARNA 4 KURS\SEDMI SEMESTAR\ИИИ\Client\SIT_17621661_Exercise9\SIT_17621661_Exercise9\obj\Debug\SIT_17621661_Exercise9.csproj.GenerateResource.cache
+C:\Users\Lockwar\Desktop\TU VARNA 4 KURS\SEDMI SEMESTAR\ИИИ\Client\SIT_17621661_Exercise9\SIT_17621661_Exercise9\obj\Debug\SIT_17621661_Exercise9.exe
+C:\Users\Lockwar\Desktop\TU VARNA 4 KURS\SEDMI SEMESTAR\ИИИ\Client\SIT_17621661_Exercise9\SIT_17621661_Exercise9\obj\Debug\SIT_17621661_Exercise9.pdb
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise9\SIT_17621661_Exercise9\SIT_17621661_Exercise9\bin\Debug\SIT_17621661_Exercise9.exe.config
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise9\SIT_17621661_Exercise9\SIT_17621661_Exercise9\bin\Debug\SIT_17621661_Exercise9.exe
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise9\SIT_17621661_Exercise9\SIT_17621661_Exercise9\bin\Debug\SIT_17621661_Exercise9.pdb
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise9\SIT_17621661_Exercise9\SIT_17621661_Exercise9\obj\Debug\SIT_17621661_Exercise9.csprojAssemblyReference.cache
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise9\SIT_17621661_Exercise9\SIT_17621661_Exercise9\obj\Debug\SIT_17621661_Exercise9.Form1.resources
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise9\SIT_17621661_Exercise9\SIT_17621661_Exercise9\obj\Debug\SIT_17621661_Exercise9.Properties.Resources.resources
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise9\SIT_17621661_Exercise9\SIT_17621661_Exercise9\obj\Debug\SIT_17621661_Exercise9.csproj.GenerateResource.cache
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise9\SIT_17621661_Exercise9\SIT_17621661_Exercise9\obj\Debug\SIT_17621661_Exercise9.csproj.CoreCompileInputs.cache
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise9\SIT_17621661_Exercise9\SIT_17621661_Exercise9\obj\Debug\SIT_17621661_Exercise9.exe
+E:\Programming\Uni\ИИИ\SIT_17621661_Exercise9\SIT_17621661_Exercise9\SIT_17621661_Exercise9\obj\Debug\SIT_17621661_Exercise9.pdb
